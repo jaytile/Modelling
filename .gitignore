@@ -1,2 +1,4 @@
 privateguy.txt
-build
+temp*
+*.exe
+build/
